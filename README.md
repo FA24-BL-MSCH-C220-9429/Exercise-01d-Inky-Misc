@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Shawn Eanes
 
-# Your Github username
+# BiggyB402
